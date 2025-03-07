@@ -32,35 +32,5 @@ Mengingat audiens global yang luas, aplikasi ini mendukung berbagai bahasa. Peng
 ✅ Dukungan multi-bahasa untuk kenyamanan pengguna global.
 ✅ Antarmuka intuitif yang cocok untuk semua tingkat pengalaman pemain.
 
-## 📥 Download & Instalasi
-
-### **Android**
-```sh
-wget https://xotogel.com/download/xotogel.apk
-adb install xotogel.apk
-```
-
-### **iOS**
-1. Buka App Store.
-2. Cari "Xotogel Mobile App".
-3. Klik "Download" dan install aplikasi.
-
-## 🔑 Registrasi & Login
-Untuk mulai bermain, Anda harus membuat akun terlebih dahulu:
-
-```python
-import requests
-
-url = "https://api.xotogel.com/register"
-data = {
-    "username": "user123",
-    "password": "securepassword",
-    "email": "user@example.com"
-}
-
-response = requests.post(url, json=data)
-print(response.json())
-```
-
 ## 🏆 Kesimpulan
 Xotogel Mobile App adalah aplikasi yang dirancang untuk membawa pengalaman bermain togel ke tingkat yang lebih tinggi. Dengan berbagai fitur canggih, keamanan yang terjamin, dan antarmuka yang mudah digunakan, aplikasi ini menjadi pilihan ideal bagi pengguna togel di seluruh dunia. **Unduh sekarang dan nikmati kemudahan bermain togel di ujung jari Anda!**
